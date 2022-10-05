@@ -1,2 +1,2 @@
-# Hacettepe 2nd Assignment Python Social Network
+# Hacettepe 1st Assignment Python Brush Game
 Kemal Şahin 
